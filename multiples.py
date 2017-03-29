@@ -1,5 +1,8 @@
 userNumber = input("Tell me a number. ")
 
-doubleNumber = userNumber * 2
+multiplier = 2
 
-print("{} doubled = {}".format(userNumber, doubleNumber))
+while multiplier < 11
+	multiple = userNumber * multiplier
+	mutiplier += 1
+	print("{} * {} = {}".format(userNumber, multiplier, multiple))
